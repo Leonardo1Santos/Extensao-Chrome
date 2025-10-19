@@ -18,7 +18,7 @@ Esta extensão foi desenvolvida como parte do Bootcamp II, seguindo as melhores 
 ## 🚀 Instalação
 
 ### Método 1: Download Direto
-1. Baixe o arquivo ZIP da [página de releases](https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO
+1. Baixe o arquivo ZIP da [página de releases](https://github.com/Leonaro1Santos/SEU_REPOSITORIO
 2. Extraia o conteúdo em uma pasta no seu computador
 3. Abra o Chrome e vá para `chrome://extensions/`
 4. Ative o "Modo do desenvolvedor" no canto superior direito
@@ -27,8 +27,8 @@ Esta extensão foi desenvolvida como parte do Bootcamp II, seguindo as melhores 
 
 ### Método 2: Clone do Repositório
 ```bash
-git clone https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO
-cd bootcamp2-chrome-ext-lucas-americano-
+git clone https://github.com/Leonaro1Santos/SEU_REPOSITORIO
+cd BootCamp-LeonardoSantos-intermadiário
 ```
 
 Depois siga os passos 3-6 do método anterior.
@@ -57,7 +57,7 @@ Depois siga os passos 3-6 do método anterior.
 ## 🗂️ Estrutura do Projeto
 
 ```
-bootcamp2-chrome-ext-lucas-americano-/
+BootCamp-LeonardoSantos-intermediário/
 ├── src/
 │   ├── popup/              # Interface principal (popup)
 │   │   ├── popup.html
@@ -236,7 +236,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 🐛 Reportar Bugs
 
-Encontrou um problema? [Abra uma issue](https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO com:
+Encontrou um problema? [Abra uma issue](https://github.com/Leonaro1Santos/SEU_REPOSITORIO com:
 
 - Descrição detalhada do problema
 - Passos para reproduzir
@@ -249,11 +249,11 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [SEU_NOME] como parte do Bootcamp II.
+Desenvolvido por Leonardo Santos.
 
-- GitHub: [@SEU_NOME](https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- GitHub: [Leonardo Santos](https://github.com/Leonaro1Santos/SEU_REPOSITORIO)
+- LinkedIn: ...
+- Email: leonardorenatobastos@sempreceub.com
 
 ## 🙏 Agradecimentos
 
@@ -265,7 +265,7 @@ Desenvolvido por [SEU_NOME] como parte do Bootcamp II.
 
 - [Documentação Oficial Chrome Extensions](https://developer.chrome.com/docs/extensions/)
 - [Manifest V3 Migration Guide](https://developer.chrome.com/docs/extensions/mv3/intro/)
-- [Chrome Extension Samples](https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO)
+- [Chrome Extension Samples](https://github.com/Leonaro1Santos/SEU_REPOSITORIO)
 
 ---
 
