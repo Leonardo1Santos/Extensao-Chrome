@@ -18,7 +18,7 @@ Esta extensão foi desenvolvida como parte do Bootcamp II, seguindo as melhores 
 ## 🚀 Instalação
 
 ### Método 1: Download Direto
-1. Baixe o arquivo ZIP da [página de releases](https://github.com/Leonaro1Santos/SEU_REPOSITORIO
+1. Baixe o arquivo ZIP da [página de releases](https://github.com/Leonaro1Santos/Extensao-Chrome 
 2. Extraia o conteúdo em uma pasta no seu computador
 3. Abra o Chrome e vá para `chrome://extensions/`
 4. Ative o "Modo do desenvolvedor" no canto superior direito
@@ -27,7 +27,7 @@ Esta extensão foi desenvolvida como parte do Bootcamp II, seguindo as melhores 
 
 ### Método 2: Clone do Repositório
 ```bash
-git clone https://github.com/Leonaro1Santos/SEU_REPOSITORIO
+git clone https://github.com/Leonaro1Santos/Extensao-Chrome 
 cd BootCamp-LeonardoSantos-intermadiário
 ```
 
@@ -236,7 +236,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 🐛 Reportar Bugs
 
-Encontrou um problema? [Abra uma issue](https://github.com/Leonaro1Santos/SEU_REPOSITORIO com:
+Encontrou um problema? [Abra uma issue](https://github.com/Leonaro1Santos/Extensao-Chrome  com:
 
 - Descrição detalhada do problema
 - Passos para reproduzir
@@ -251,7 +251,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Desenvolvido por Leonardo Santos.
 
-- GitHub: [Leonardo Santos](https://github.com/Leonaro1Santos/SEU_REPOSITORIO)
+- GitHub: [Leonardo Santos](https://github.com/Leonaro1Santos/Extensao-Chrome )
 - LinkedIn: ...
 - Email: leonardorenatobastos@sempreceub.com
 
@@ -265,7 +265,7 @@ Desenvolvido por Leonardo Santos.
 
 - [Documentação Oficial Chrome Extensions](https://developer.chrome.com/docs/extensions/)
 - [Manifest V3 Migration Guide](https://developer.chrome.com/docs/extensions/mv3/intro/)
-- [Chrome Extension Samples](https://github.com/Leonaro1Santos/SEU_REPOSITORIO)
+- [Chrome Extension Samples](https://github.com/Leonaro1Santos/Extensao-Chrome )
 
 ---
 
