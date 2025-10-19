@@ -1,0 +1,40 @@
+{
+  "name": "bootcamp-chrome-extension",
+  "version": "1.0.0",
+  "description": "Extensão Chrome para produtividade com salvamento de links, anotações e tarefas",
+  "type": "module",
+  "author": "Leonardo Santos",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  },
+  
+  "scripts": {
+    "build": "node scripts/build-extension.mjs",
+    "test:e2e": "npx playwright test --reporter=html,list",
+    "test": "npm run build && npm run test:e2e",
+    "docker:test": "docker compose run --rm e2e",
+    "ci": "npm ci && npm run test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^24.7.2",
+    "archiver": "^7.0.0"
+  },
+  "keywords": [
+    "chrome-extension",
+    "productivity",
+    "links",
+    "notes",
+    "tasks",
+    "manifest-v3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO"
+  },
+  "bugs": {
+    "url": "https://github.com/Leonaro/SEU_REPOSITORIO"
+  }
+}

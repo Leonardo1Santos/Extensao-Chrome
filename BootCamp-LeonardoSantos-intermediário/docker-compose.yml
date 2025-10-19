@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  e2e:
+    build: .
+    image: bootcamp/ext-e2e:latest
+    environment:
+      - CI=true
+    volumes:
+      - ./playwright-report:/app/playwright-report
+    working_dir: /app
+    command: npx playwright test --reporter=html,list
+    shm_size: 2gb

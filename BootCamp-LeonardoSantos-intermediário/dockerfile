@@ -1,0 +1,23 @@
+# Use a imagem oficial do Playwright
+FROM mcr.microsoft.com/playwright:v1.46.0-jammy
+
+# Defina o diretório de trabalho
+WORKDIR /app
+
+# Copie os arquivos de definição de dependências
+COPY package*.json ./
+
+# Instale as dependências
+RUN npm ci
+
+# Instale os navegadores do Playwright, se necessário
+RUN npx playwright install --with-deps chromium
+
+# Copie o restante do código do projeto
+COPY . .
+
+# (Opcional) Execute o script de build da extensão
+# RUN node scripts/build-extension.mjs
+
+# Comando para executar os testes
+CMD ["npx", "playwright", "test"]
